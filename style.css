@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	padding: 0;
+	font: sans serif;
+}
+#active{
+	font-size: 30px;
+	
+}
+
+#same{
+	font-size: 25px;
+}
+
+#greyButton, #blueButton, #whiteButton, #greenButton, #yellowButton{
+	height: 50px;
+	width: 50px;
+	border-radius: 5px;
+	margin: auto;
+	border: 3px solid black;
+	margin -left: 125px;
+}
+
+#greyButton{
+	background-color: grey;
+}
+#blueButton{
+	background-color: blue;
+}
+#whiteButton{
+	background-color: white;
+}
+#greenButton{
+	background-color: green;
+}
+#yellowButton{
+background-color: yellow;	
+}
